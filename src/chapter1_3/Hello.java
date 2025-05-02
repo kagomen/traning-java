@@ -1,4 +1,4 @@
-package to.msn.wings.selfjava.chap01;
+package chapter1_3;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

@@ -6,6 +6,28 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LoopSample",
+      "request": "launch",
+      "args": ["1", "2", "3"],
+      "mainClass": "selfjava/chapter4.LoopSample",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "SwitchSample",
+      "request": "launch",
+      "mainClass": "selfjava/chapter4.SwitchSample",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "selfjava/chapter1_3.Hello",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
       "name": "Launch Java Program",
       "request": "launch",
       "mainClass": ""
