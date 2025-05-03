@@ -1,2 +1,2 @@
-module selfjava {
-}
+@SuppressWarnings("preview")
+module selfjava {}

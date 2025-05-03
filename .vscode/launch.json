@@ -6,6 +6,28 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RegexSample",
+      "request": "launch",
+      "mainClass": "selfjava/chapter5.RegexSample",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "StringSample",
+      "request": "launch",
+      "mainClass": "selfjava/chapter5.StringSample",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "StringSample",
+      "request": "launch",
+      "mainClass": "selfjava/chapter5.StringSample",
+      "vmArgs": "--enable-preview",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
       "name": "LoopSample",
       "request": "launch",
       "args": ["1", "2", "3"],
@@ -36,14 +58,8 @@
       "type": "java",
       "name": "Current File",
       "request": "launch",
-      "mainClass": "${file}"
-    },
-    {
-      "type": "java",
-      "name": "Hello",
-      "request": "launch",
-      "mainClass": "selfjava/to.msn.wings.selfjava.chap01.Hello",
-      "projectName": "traning-java_1d59d869"
+      "mainClass": "${file}",
+      "vmArgs": "--enable-preview"
     }
   ]
 }
