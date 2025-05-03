@@ -26,6 +26,7 @@ public class RegexSample {
       System.out.println("=========");
       System.out.println("電話番号: " + match.group());
       System.out.println("市外局番: " + match.group(1));
+      System.out.println("hello");
     }
   }
 }
