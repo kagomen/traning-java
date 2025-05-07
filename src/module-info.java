@@ -1,2 +1,4 @@
 @SuppressWarnings("preview")
-module selfjava {}
+module selfjava {
+  requires java.net.http;
+}
