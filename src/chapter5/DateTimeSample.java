@@ -8,7 +8,7 @@ import java.time.format.DateTimeFormatter;
 import java.time.format.FormatStyle;
 import java.time.temporal.ChronoUnit;
 
-public class DateTime {
+public class DateTimeSample {
   public static void main(String[] args) {
     System.out.println(LocalDate.now()); // ->2025-05-07
     System.out.println(LocalDateTime.now()); // ->2025-05-07T12:33:22.891157
