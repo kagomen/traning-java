@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PracticeSample",
+      "request": "launch",
+      "mainClass": "selfjava/chapter5.PracticeSample",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
       "name": "HttpClientSamile",
       "request": "launch",
       "mainClass": "selfjava/chapter5.HttpClientSamile",
