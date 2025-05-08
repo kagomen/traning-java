@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SetSample",
+      "request": "launch",
+      "mainClass": "selfjava/chapter6.SetSample",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
       "name": "ListSample",
       "request": "launch",
       "mainClass": "selfjava/chapter6.ListSample",

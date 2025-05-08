@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class ListSample {
+public class CollectionSample {
   public static void main(String[] args) {
     // クラシカルな記法
     var l1 =
