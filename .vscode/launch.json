@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PracticeSample",
+      "request": "launch",
+      "mainClass": "selfjava/chapter6.PracticeSample",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "MapSample",
+      "request": "launch",
+      "mainClass": "selfjava/chapter6.MapSample",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
       "name": "SetSample",
       "request": "launch",
       "mainClass": "selfjava/chapter6.SetSample",
