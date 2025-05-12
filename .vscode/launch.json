@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "selfjava/chapter8.Sample",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "Oop",
+      "request": "launch",
+      "mainClass": "selfjava/chapter8.Oop",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
       "name": "Oop",
       "request": "launch",
       "mainClass": "selfjava/chapter7.Oop",
