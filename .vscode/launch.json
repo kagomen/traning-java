@@ -6,6 +6,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Monster",
+      "request": "launch",
+      "mainClass": "selfjava/chapter9.practice.Monster",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "Book",
+      "request": "launch",
+      "mainClass": "selfjava/chapter9.practice.Book",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "User",
+      "request": "launch",
+      "mainClass": "selfjava/chapter9.User",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "Mage",
+      "request": "launch",
+      "mainClass": "selfjava/chapter9.Mage",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "BankAccount",
+      "request": "launch",
+      "mainClass": "selfjava/chapter9.BankAccount",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "Heroine",
+      "request": "launch",
+      "mainClass": "selfjava/chapter9.Heroine",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "selfjava/chapter9.Array",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "Hero",
+      "request": "launch",
+      "mainClass": "selfjava/chapter9.Hero",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "selfjava/chapter9.Sample",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
       "name": "Sample",
       "request": "launch",
       "mainClass": "selfjava/chapter8.Sample",
