@@ -11,7 +11,8 @@ public class Account {
     if (obj == null) return false; // nullが引数に渡されたら無条件でfalse
     if (!(obj instanceof Account)) return false; // 型が違えばfalse
     Account r = (Account) obj; // 次の検証に備え、キャスト
-    if (this.accountNumber.equals(r.accountNumber)) {
+    if (this.accountNumber.equals(
+        r.accountNumber)) { // Objects.equals(this.accountNumber, r.accountNumber) でもよい
       return true; // フィールドを比較し、同値であればtrue(String.equals()は同値を検証する)
     }
     return false;

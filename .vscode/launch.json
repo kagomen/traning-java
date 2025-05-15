@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ExceptionSample",
+      "request": "launch",
+      "mainClass": "selfjava/chapter9second.ExceptionSample",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "OptionalSample",
+      "request": "launch",
+      "mainClass": "selfjava/chapter9second.OptionalSample",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "Outer",
+      "request": "launch",
+      "mainClass": "selfjava/chapter9second.Outer",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "Dog",
+      "request": "launch",
+      "mainClass": "selfjava/chapter9second.Dog",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "Pocket",
+      "request": "launch",
+      "mainClass": "selfjava/chapter9second.Pocket",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
       "name": "Monster",
       "request": "launch",
       "mainClass": "selfjava/chapter9.practice.Monster",

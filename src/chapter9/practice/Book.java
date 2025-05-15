@@ -67,6 +67,15 @@ public class Book implements Cloneable, Comparable<Book> {
     System.out.println(list);
 
     Collections.sort(list, new TitleComparator()); // タイトル順
+    // 匿名クラスを利用して以下のようにも記述できる
+    // Collections.sort(
+    //     list,
+    //     new Comparator<Book>() {
+    //       public int compare(Book x, Book y) {
+    //         return (x.getTitle().compareTo(y.getTitle()));
+    //       }
+    //     });
+
     System.out.println(list);
   }
 }
