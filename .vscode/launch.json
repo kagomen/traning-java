@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "selfjava/chapter10.practice.Main",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "StreamSample",
+      "request": "launch",
+      "mainClass": "selfjava/chapter10.StreamSample",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "Stream",
+      "request": "launch",
+      "mainClass": "selfjava/chapter10.Stream",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "Main3",
+      "request": "launch",
+      "mainClass": "selfjava/chapter10.Main3",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "selfjava/chapter10.Main",
+      "projectName": "traning-java_1d59d869"
+    },
+    {
+      "type": "java",
       "name": "ExceptionSample",
       "request": "launch",
       "mainClass": "selfjava/chapter9second.ExceptionSample",
